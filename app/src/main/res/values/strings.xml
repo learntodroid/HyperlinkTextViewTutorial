@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hyperlink TextView Tutorial</string>
+
+    <string name="hyperlink">Please visit <a href="https://learntodroid.com">learntodroid.com</a></string>
+</resources>
